@@ -43,13 +43,13 @@ Seller Functionality:
 
 # Inventory Structure
 Each product category has the following attributes :
-Foods : 
+* Foods : 
 Name, Stock, Spice Level (Spicy/Mild), Portion Size(Big/Medium/Small), Price
-Drinks : 
+* Drinks : 
 Name, Stock, Category (Alcohol/Non-alcohol), Portion Size(Big/Medium/Small), Price
-Snacks : 
+* Snacks : 
 Name, Stock, Portion Size(Big/Medium/Small), Price
-Meds : 
+* Meds : 
 Name, Stock, Indication, Price
 
 # Code Explanation
