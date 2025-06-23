@@ -1,7 +1,7 @@
 # A Simple E-Commerce System
 
 # Overview
-Indovina is a simple e-commerce system that allows users to browse, add items to their cart, and make payments. 
+This is a simple e-commerce system that allows users to browse, add items to their cart, and make payments. 
 The system supports two types of users: buyers and sellers. 
 Buyers can purchase food, drinks, snacks, and medicines, while sellers can manage the inventory of these items.
 
