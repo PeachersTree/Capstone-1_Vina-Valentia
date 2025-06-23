@@ -1,4 +1,4 @@
-# Indovina - A Simple E-Commerce System
+# A Simple E-Commerce System
 
 # Overview
 Indovina is a simple e-commerce system that allows users to browse, add items to their cart, and make payments. 
